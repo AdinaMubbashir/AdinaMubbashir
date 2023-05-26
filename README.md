@@ -71,10 +71,7 @@
 
 ![Adina's github stats](https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&size_weight=0.3&count_weight=0.5&theme=synthwave" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="200">
 
 </div>
 
-
-
- 
