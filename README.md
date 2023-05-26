@@ -32,7 +32,8 @@
 <p>
 
 🔭&emsp;I have a deep passion for programming and find joy in solving complex problems through coding. The process of learning and exploring new technologies fuels my curiosity and drives me to continuously improve my programming skills. <br/><br/>
-📧 &emsp;How to reach me: amubbash@uoguelph.ca<br/><br/>
+:books:&emsp;Currently, my main objective revolves around expanding my expertise and elevating my proficiency in React and Bootstrap.<br/><br/>
+📧 &emsp;How to reach me: amubbash@uoguelph.ca<br/>
 
 </p>
 
