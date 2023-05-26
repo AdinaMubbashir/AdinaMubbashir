@@ -11,7 +11,6 @@
     <br>
     「 I am a <b>Software Engineering</b> Student at University of Guelph  」
     <br>
-    <br>
   </samp>
 </p>
 
@@ -53,24 +52,20 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 <br/>
-<br/>
+
 
 
 
 <p align="left">
   <a href="https://github.com/AdinaMubbashir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<br/>
-<hr/>
 <br/>
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
 
 ![Adina's github stats](https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="200" height="100">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="250" height="150">
 
 </div>
 
