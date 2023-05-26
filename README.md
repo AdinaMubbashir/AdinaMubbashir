@@ -66,11 +66,12 @@
 <br/>
 
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
 ![Adina's github stats](https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="200">
 
 </div>
+
 
