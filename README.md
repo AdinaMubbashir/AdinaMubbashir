@@ -32,13 +32,13 @@
 <p>
 
 🔭&emsp;I have a deep passion for programming and find joy in solving complex problems through coding. The process of learning and exploring new technologies fuels my curiosity and drives me to continuously improve my programming skills. <br/><br/>
-🤔&emsp;Currently, my main objective revolves around expanding my expertise and elevating my proficiency in React and Bootstrap.<br/><br/>
 📧 &emsp;How to reach me: amubbash@uoguelph.ca<br/><br/>
 
 </p>
 
 ## 🛠  Skills
 
+<div align="center">
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,6 +54,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+ </div>
 
 <p align="left">
   <a href="https://github.com/AdinaMubbashir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
