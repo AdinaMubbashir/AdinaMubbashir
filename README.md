@@ -22,7 +22,6 @@
  <a href="https://www.linkedin.com/in/adina-mubbashir/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </p>
-<br />
 
 <!-- About Section -->
  ## 🔍  About Me
