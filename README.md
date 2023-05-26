@@ -67,15 +67,14 @@
 <br/>
 
 
-<p align="center"> 
+<div align="center">
 
 ![Adina's github stats](https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs)
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&size_weight=0.3&count_weight=0.5&theme=synthwave" alt="Top Langs">
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&size_weight=0.3&count_weight=0.5&theme=synthwave" alt="Top Langs">
-</p>
+</div>
+
 
 
  
