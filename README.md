@@ -74,8 +74,7 @@
 </p>
 
 <p align="center"> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&size_weight=0.5&count_weight=0.5&theme=synthwave)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&size_weight=0.3&count_weight=0.5&theme=synthwave" alt="Top Langs">
 </p>
 
 
