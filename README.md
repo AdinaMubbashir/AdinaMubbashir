@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" width="300">
+<img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" width="300"  height="300">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="250" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="250" height="300">
 
 </div>
 
