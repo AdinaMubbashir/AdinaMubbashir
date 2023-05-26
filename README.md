@@ -1,5 +1,3 @@
-
-<!-- Intro  -->
 <h3 align="center">
         <samp> <img src = https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif width="28px" height="28px" alt="hi"> Hey There!, I'm
                 <b><a target="_blank" href="https://adinamubbashir.github.io/My-Portfolio/">Adina Mubbashir</a></b>
@@ -9,7 +7,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a <b>Software Engineering</b> Student at University of Guelph  」
+    「 I am a <b>Software Engineering</b> Student at University of Guelph 」
     <br>
   </samp>
 </p>
@@ -28,7 +26,6 @@
 
 <!-- About Section -->
  ## 🔍  About Me
- 
 <p>
 
 🔭&emsp;I have a deep passion for programming and find joy in solving complex problems through coding. The process of learning and exploring new technologies fuels my curiosity and drives me to continuously improve my programming skills. <br/><br/>
@@ -38,8 +35,6 @@
 </p>
 
 ## 🛠  Skills
-
-<center>
         
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -57,17 +52,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-</center>
-
 <p align="left">
   <a href="https://github.com/AdinaMubbashir?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" width="490"  height="300">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="300">
-
 </div>
 
