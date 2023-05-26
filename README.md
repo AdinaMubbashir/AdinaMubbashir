@@ -66,12 +66,15 @@
 <br/>
 
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
-![Adina's github stats](https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs)
+  <div style="width: 50%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" alt="Adina's github stats">
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="200">
+  <div style="width: 50%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="200">
+  </div>
 
 </div>
-
 
