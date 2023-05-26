@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" width="450"  height="300">
+<img src="https://github-readme-stats.vercel.app/api?username=AdinaMubbashir&count_private=true&theme=synthwave&hide=contribs,prs" width="490"  height="300">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinaMubbashir&theme=synthwave&layout=compact" alt="Top Langs" width="300" height="300">
 
