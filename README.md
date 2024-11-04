@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
- <a href="https://adinamubbashir.github.io/My-Portfolio/" target="blank">
+ <a href="https://adina-mubbashir.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Github" />
  </a>
  <a href="https://www.linkedin.com/in/adina-mubbashir/" target="_blank">
